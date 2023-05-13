@@ -1,0 +1,1 @@
+# next_open_ai_project
